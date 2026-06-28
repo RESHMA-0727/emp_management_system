@@ -63,6 +63,12 @@ function Login() {
             color: "#cbd5e1",
           }}
         ></p>
+        <p style={{ marginTop:"15px",color:"#fff",textAlign:"center"}}>
+        🗝️<strong>Demo Credentials</strong><br />
+        Username:<strong>admin</strong><br />
+        Password:<strong>admin123</strong>
+        </p>
+
       </div>
     </div>
   );

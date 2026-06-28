@@ -73,7 +73,7 @@ function Employees() {
         >
           <option value="All">All Departments</option>
           <option value="HR">HR</option>
-          <option value="Developer">Developer</option>
+          <option value="Development">Development</option>
           <option value="Testing">Testing</option>
         </select>
 

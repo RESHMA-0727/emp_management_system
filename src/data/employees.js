@@ -1,17 +1,17 @@
 const employees = [
   {
     id: 1,
-    name: "Reshma",
+    name: "Rahul",
     department: "HR",
     salary: 35000,
-    email: "reshma@gmail.com",
+    email: "rahul@gmail.com",
   },
   {
     id: 2,
-    name: "Rahul",
-    department: "Developer",
+    name: "Ramya",
+    department: "Development",
     salary: 60000,
-    email: "rahul@gmail.com",
+    email: "ramya@gmail.com",
   },
   {
     id: 3,
@@ -19,6 +19,20 @@ const employees = [
     department: "Testing",
     salary: 45000,
     email: "priya@gmail.com",
+  },
+  {
+    id: 4,
+    name: "Harsha",
+    department: "Support Team ",
+    salary: 25000,
+    email: "harsha@gmail.com",
+  },
+  {
+    id: 5,
+    name: "Arjun",
+    department: "Development",
+    salary: 45000,
+    email: "arjun@gmail.com",
   },
 ];
 
